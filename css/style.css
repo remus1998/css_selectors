@@ -1,0 +1,10 @@
+footer nav.newsletter h2 {
+  color: red;
+}
+
+footer nav.newsletter form input[type="email"]{
+background-color:  yellow;
+}
+footer nav.newsletter form input[type="email"]:invalid{
+  background-color:  red;
+  }
